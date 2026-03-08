@@ -130,6 +130,8 @@ p {
   stroke-linecap: round; stroke-linejoin: round;
 }
 .lang-switch a {
+  font-size: 0.76rem; font-weight: 700; color: #334155; text-decoration: none;
+  padding: 0.16rem 0.42rem; border-radius: 999px; white-space: nowrap;
   font-size: 0.78rem; font-weight: 700; color: #334155; text-decoration: none;
   padding: 0.12rem 0.28rem; border-radius: 999px;
 }
